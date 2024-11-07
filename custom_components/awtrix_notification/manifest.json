@@ -2,11 +2,14 @@
   "domain": "awtrix",
   "name": "Awtrix tools and notification",
   "config_flow": true,
-  "codeowners": ["@10der"],
+  "codeowners": [
+    "@10der",
+    "s256"
+  ],
   "integration_type": "service",
   "dependencies": [],
   "documentation": "https://github.com/10der/homeassistant-custom_components-awtrix/blob/main/README.md",
   "iot_class": "local_polling",
   "requirements": [],
-  "version": "0.3.16"
+  "version": "0.3.20"
 }
