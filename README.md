@@ -1,5 +1,5 @@
 # homeassistant-custom_components-awtrix
-Homeassistant awtrix Integration - Forked from [https://github.com/10der/homeassistant-custom_components-awtrix/tree/main](https://github.com/10der/homeassistant-custom_components-awtrix/tree/main)
+Homeassistant [awtrix](https://blueforcer.github.io/awtrix3/#/) Integration - Forked from [https://github.com/10der/homeassistant-custom_components-awtrix/tree/main](https://github.com/10der/homeassistant-custom_components-awtrix/tree/main)
 I forked it because [041aa27](https://github.com/10der/homeassistant-custom_components-awtrix/commit/041aa2751fb37f5ea4f9b1debe10839fd70841ff) broke the weather integration.
 
 ## Setup 
