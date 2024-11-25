@@ -1,5 +1,10 @@
 # homeassistant-custom_components-awtrix
 
+# 0.3.21
+* Updated README with installation instructions
+* moved changelog from README to dedicated file
+* using releases
+
 # ver 20240128.03
 
 
